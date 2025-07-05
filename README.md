@@ -1,2 +1,2 @@
 # transfer_learning
-Desafio de Projeto: Treinamento de Redes Neurais com Transfer Learning Bootcamp BairesDev - Machine Learning Training, promovido pela plataforma DIO.
+Neste projeto, aprofundei meus conhecimentos em transfer learning, entendendo os benefícios de aproveitar um modelo pré-treinado e aplicar apenas o fine‑tuning. Sempre que necessário, comparei seus resultados com os de uma rede neural convolucional desenvolvida do zero versus a arquitetura pré‑treinada VGG16, demonstrando como o uso de modelos estabelecidos pode acelerar o treinamento e melhorar a performance.
